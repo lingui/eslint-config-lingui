@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/lingui/eslint-config-lingui/issues"
   },
-  "homepage": "https://github.com/lingui/eslint-config-lingui#readme"
+  "homepage": "https://github.com/lingui/eslint-config-lingui#readme",
+  "devDependencies": {
+    "eslint": "^1.8.0"
+  }
 }
