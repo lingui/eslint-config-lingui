@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-lingui",
+  "version": "0.1.0",
+  "description": "ESLint configuration for Lingui projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lingui/eslint-config-lingui.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "lingui"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lingui/eslint-config-lingui/issues"
+  },
+  "homepage": "https://github.com/lingui/eslint-config-lingui#readme"
+}
