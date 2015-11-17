@@ -1,6 +1,10 @@
 module.exports = {
     rules: {
         "brace-style": [1, "1tbs", {"allowSingleLine": true}],
+
+        // Trailing commas makes more beautiful diffs
+        "comma-dangle": [2, "always-multiline"],
+
         "curly": [2, "multi-line"],
         "linebreak-style": [2, "unix"],
         "no-empty-pattern": 2,
