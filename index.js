@@ -5,6 +5,6 @@ module.exports = {
   },
   "extends": [
       "lingui/rules/es6",
-      "lingui/rules/best_practices"
-  ]
+      "lingui/rules/best_practices",
+  ],
 };

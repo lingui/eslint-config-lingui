@@ -23,6 +23,6 @@ module.exports = {
         "semi": [2, "always"],
         "strict": [0, "never"],
         "quotes": [2, "double"],
-        "valid-jsdoc": 2
-    }
+        "valid-jsdoc": 2,
+    },
 };
