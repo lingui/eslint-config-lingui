@@ -1,6 +1,6 @@
 module.exports = {
   "env": {
-    "es6": true,
+    "es6": true
   },
   "parser": "babel-eslint",
   "rules": {
@@ -9,9 +9,9 @@ module.exports = {
     "no-var": 2,
     "object-shorthand": 2,
     "prefer-const": 2,
-    "prefer-template": 2,
+    "prefer-template": 2
   },
   "ecmaFeatures": {
-    "experimentalObjectRestSpread": true,
+    "experimentalObjectRestSpread": true
   },
 };

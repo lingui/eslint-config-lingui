@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/lingui/eslint-config-lingui#readme",
   "devDependencies": {
-    "babel-eslint": "^4.1.3",
-    "eslint": "^1.8.0"
+    "babel-eslint": "^4.1.8",
+    "eslint": "^2.0.0"
   }
 }

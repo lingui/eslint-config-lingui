@@ -3,7 +3,7 @@ module.exports = {
         "brace-style": [1, "1tbs", {"allowSingleLine": true}],
 
         // Trailing commas makes more beautiful diffs
-        "comma-dangle": [2, "always-multiline"],
+        "comma-dangle": [2, "only-multiline"],
 
         "curly": [2, "multi-line"],
         "linebreak-style": [2, "unix"],
@@ -21,6 +21,6 @@ module.exports = {
         "semi": [2, "always"],
         "strict": [0, "never"],
         "quotes": [2, "double"],
-        "valid-jsdoc": 2,
-    },
+        "valid-jsdoc": 2
+    }
 };
