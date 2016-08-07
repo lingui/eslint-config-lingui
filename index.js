@@ -4,7 +4,7 @@ module.exports = {
     "mocha": true
   },
   "extends": [
-      "lingui/rules/es6",
-      "lingui/rules/best_practices"
-  ]
+      "./rules/es6",
+      "./rules/best_practices"
+  ].map(require.resolve)
 }

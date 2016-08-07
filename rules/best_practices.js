@@ -21,8 +21,8 @@ module.exports = {
         "no-catch-shadow": 2,
         "no-shadow-restricted-names": 2,
         "no-shadow": 2,
-        "no-unused-expressions": 0,
-        "strict": [0, "never"],
+        "no-unused-expressions": "off",
+        "strict": ["off", "never"],
         "quotes": [2, "double"],
         "valid-jsdoc": 2
     }

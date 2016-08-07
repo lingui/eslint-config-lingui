@@ -25,9 +25,10 @@
   },
   "homepage": "https://github.com/lingui/eslint-config-lingui#readme",
   "devDependencies": {
-    "babel-eslint": "^4.1.8",
+    "babel-eslint": "^6.1.2",
     "condition-circle": "^1.2.0",
-    "eslint": "^2.0.0",
+    "eslint": "^3.2.2",
+    "eslint-plugin-react": "^6.0.0",
     "semantic-release": "^4.3.5"
   },
   "release": {
