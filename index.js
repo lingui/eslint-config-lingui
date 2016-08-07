@@ -7,4 +7,4 @@ module.exports = {
       "lingui/rules/es6",
       "lingui/rules/best_practices"
   ]
-};
+}
